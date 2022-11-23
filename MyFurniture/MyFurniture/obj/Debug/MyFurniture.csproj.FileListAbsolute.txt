@@ -1,0 +1,8 @@
+X:\suli\13sz\C#\20221123\MyFurniture\MyFurniture\bin\Debug\MyFurniture.exe.config
+X:\suli\13sz\C#\20221123\MyFurniture\MyFurniture\bin\Debug\MyFurniture.exe
+X:\suli\13sz\C#\20221123\MyFurniture\MyFurniture\bin\Debug\MyFurniture.pdb
+X:\suli\13sz\C#\20221123\MyFurniture\MyFurniture\obj\Debug\MyFurniture.csproj.AssemblyReference.cache
+X:\suli\13sz\C#\20221123\MyFurniture\MyFurniture\obj\Debug\MyFurniture.csproj.SuggestedBindingRedirects.cache
+X:\suli\13sz\C#\20221123\MyFurniture\MyFurniture\obj\Debug\MyFurniture.csproj.CoreCompileInputs.cache
+X:\suli\13sz\C#\20221123\MyFurniture\MyFurniture\obj\Debug\MyFurniture.exe
+X:\suli\13sz\C#\20221123\MyFurniture\MyFurniture\obj\Debug\MyFurniture.pdb
