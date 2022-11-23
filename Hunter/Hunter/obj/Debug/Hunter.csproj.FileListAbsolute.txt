@@ -1,0 +1,7 @@
+X:\suli\13sz\C#\20221123\Hunter\Hunter\bin\Debug\Hunter.exe.config
+X:\suli\13sz\C#\20221123\Hunter\Hunter\bin\Debug\Hunter.exe
+X:\suli\13sz\C#\20221123\Hunter\Hunter\bin\Debug\Hunter.pdb
+X:\suli\13sz\C#\20221123\Hunter\Hunter\obj\Debug\Hunter.csproj.SuggestedBindingRedirects.cache
+X:\suli\13sz\C#\20221123\Hunter\Hunter\obj\Debug\Hunter.csproj.CoreCompileInputs.cache
+X:\suli\13sz\C#\20221123\Hunter\Hunter\obj\Debug\Hunter.exe
+X:\suli\13sz\C#\20221123\Hunter\Hunter\obj\Debug\Hunter.pdb
